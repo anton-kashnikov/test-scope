@@ -7,6 +7,7 @@ public class TestScope extends Application {
         System.out.println("Test");
         System.out.println("first change");
         System.out.println("second change");
+        System.out.println("third change");
     }
 
     public void start(Stage stage) throws Exception {

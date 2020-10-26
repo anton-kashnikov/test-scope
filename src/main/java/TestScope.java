@@ -13,6 +13,8 @@ public class TestScope extends Application {
         System.out.println("branch-1-third change");
         System.out.println("branch-2 first change");
         System.out.println("branch-2 second change");
+        System.out.println("branch-2 first change");
+        System.out.println("branch-2 second change");
     }
 
     public void start(Stage stage) throws Exception {
